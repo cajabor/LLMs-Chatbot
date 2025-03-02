@@ -1,0 +1,2 @@
+###install
+python3 -m pip install transformers==4.30.2 torch
