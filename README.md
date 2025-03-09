@@ -2,8 +2,8 @@
 
 This project implements a chatbot using the **BlenderBot 400M** model from Facebook. The chatbot maintains conversation history and generates responses based on user input, creating a more context-aware interaction.
 
-## Watch a Demo (Demo under construction🚧)
-[Demo](#)  <!-- Replace with actual demo link when available -->
+## Watch a Demo
+[Demo](https://drive.google.com/file/d/1IwKBiEQetK87Kana-NHs5haS0H79aXF6/view?usp=sharing)
 
 ## Technical Challenges Solved
 - **Context-Aware Responses**: The chatbot retains conversation history, allowing it to generate contextually relevant responses rather than treating each input as an isolated query.
